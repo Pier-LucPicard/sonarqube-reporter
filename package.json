@@ -1,0 +1,23 @@
+{
+  "name": "sonarqube-reporter",
+  "version": "1.0.0",
+  "description": "Custom Hapi/Lab reporter for sonarqube (works with custom version of lab)",
+  "main": "sonarqube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pier-LucPicard/sonarqube-reporter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pier-LucPicard/sonarqube-reporter/issues"
+  },
+  "homepage": "https://github.com/Pier-LucPicard/sonarqube-reporter#readme",
+  "dependencies": {
+    "handlebar": "^1.0.0",
+    "lodash": "^4.17.15"
+  }
+}
